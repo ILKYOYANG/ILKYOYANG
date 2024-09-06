@@ -6,6 +6,7 @@
 <li> 📚  Electrical and Information Engineering </li>
 <li> 🧘🏻‍♀️  Yogini, 🥊 Boxer ,🚘 Driver </li>
 
+hihi
 
 
 <h4 align="center"> 🛠 Tech Stack 🛠 </h4>
