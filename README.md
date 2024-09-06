@@ -27,7 +27,7 @@ Techs that I've used at least once
 
 
 <h4 align="center"> 👀 About me 👀 </h4>
-<a href="https://www.naver.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/iii_gyo__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 <div>
 <!--
