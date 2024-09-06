@@ -1,5 +1,7 @@
 <div align=center>	
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ## Hi, everyone, I'm Ilkyo👋
 
 - 🇰🇷  Korean
@@ -15,5 +17,4 @@ Techs that I've used at least once
   
 
 <h4 align="center"> 👀 About me 👀 </h4>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-  <div>
+<a href="https://www.naver.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
