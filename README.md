@@ -20,13 +20,12 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </ul>
 
-<ul>
 <h4> 🏄🏻‍♀️ My Activities 🏄🏻‍♀️ </h4>
-</ul>
 
-<ul>
+
 <h4> 🎖️ My Certification 🎖️ </h4>
-</ul>
+<li> 빅데이터분석기사 (2023.12.22)</li>
+<li> 리눅스마스터 2급 (2024.03.29)</li>
   
 <div>
 <!--
