@@ -2,9 +2,9 @@
 
 ## Hi, everyone, I'm Ilkyo👋
 
-<li> 🇰🇷  Seoul, Korea <li>
-<li> 📚  Electrical and Information Engineering <li>
-<li> 🧘🏻‍♀️  Yogini, 🥊 Boxer ,🚘 Driver <li>
+<li> 🇰🇷  Seoul, Korea </li>
+<li> 📚  Electrical and Information Engineering </li>
+<li> 🧘🏻‍♀️  Yogini, 🥊 Boxer ,🚘 Driver </li>
 
 
 
