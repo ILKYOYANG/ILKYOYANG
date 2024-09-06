@@ -16,9 +16,19 @@ Techs that I've used at least once
   
 
 <h4 align="center"> 👀  About me  👀 </h4>
+<ul>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-  <div>
+</ul>
 
+<ul>
+<h4> 🏄🏻‍♀️ My Activities 🏄🏻‍♀️ </h4>
+</ul>
+
+<ul>
+<h4> 🎖️ My Certification 🎖️ </h4>
+</ul>
+  
+<div>
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILKYOYANG)
 --!>
