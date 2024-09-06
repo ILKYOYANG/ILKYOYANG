@@ -18,3 +18,6 @@ Techs that I've used at least once
 <h4 align="center"> 👀  About me  👀 </h4>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   <div>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILKYOYANG)
