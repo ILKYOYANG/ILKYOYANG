@@ -2,9 +2,10 @@
 
 ## Hi, everyone, I'm Ilkyo👋
 
-- 🇰🇷  Korean
+- 🇰🇷  Seoul, Korea
 - 📚  Electrical and Information Engineering
 - 🧘🏻‍♀️  Yogini, 🥊 Boxer ,🚘 Driver
+
 
 
 <h4 align="center"> 🛠 Tech Stack 🛠 </h4>
@@ -14,6 +15,6 @@ Techs that I've used at least once
 
   
 
-<h4 align="center"> 👀 About me 👀 </h4>
+<h4 align="center"> 👀  About me  👀 </h4>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   <div>
