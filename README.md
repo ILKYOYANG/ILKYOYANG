@@ -16,7 +16,7 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 
-<h4>  Experience 💎 </h4>
+<h4> 💎 Experience 💎 </h4>
 <li> 한양대학교 산학협력단 (2022.08~2022.12)</li>
  통신시스템연구실 TTA 인증심사 참여연구원 
  
@@ -26,14 +26,13 @@ Techs that I've used at least once
 <li> 신한투자증권 프로디지털아카데미 5기 (2024.09~) </li>
 
 
-
-</h4> 💡 Research & Publications 💡</h4>
+<h4> 💡 Research & Publications 💡</h4>
 
 <li> 한국광학회 동계학술발표회 Photonics 부문 제 1저자 우수논문상 </li>
  Optical Gas Sensors for Carbon Dioxide Detection 
 
 
-<h4> 🎖️ My Certification 🎖️ </h4>
+<h4> 🎖️ Certification 🎖️ </h4>
 <li> 빅데이터분석기사 (2023.12.22)</li>
 <li> 리눅스마스터 2급 (2024.03.29)</li>
 <li> 네트워크관리사 2급 (2024.01.23)</li>
