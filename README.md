@@ -17,14 +17,20 @@ Techs that I've used at least once
 
 
 
-<h4> 🏄🏻‍♀️ My Activities 🏄🏻‍♀️ </h4>
-<li> Intern 한양대학교 산학협력단 통신시스템연구실 TTA 인증심사 과정 참여 (2022.08~2022.12)</li>
-<li> Intern 한국과학기술연구원(KIST) 차세대반도체연구소 광전소재연구단 (2021.09~2022.02)</li>
+<h4> 🏄🏻‍♀️ Activities 🏄🏻‍♀️ </h4>
 
+<h4> 🥸 Experience 🥸 </h4>>
+<li> Intern 한양대학교 산학협력단 통신시스템연구실 TTA 인증심사 참여연구원 (2022.08~2022.12)</li>
+<li> 한국과학기술연구원(KIST) 차세대반도체연구소 광전소재연구단 학생연구원 (2021.09~2022.02)</li>
+
+</h4> 💡 Research & Publications 💡</h4>
+<li> Optical Gas Sensors for Carbon Dioxide Detection </li>
+<li> 2022년도 동계학술발표회 Photonics 부문 포스터부문 제 1저자 우수논문상 </li>
 
 <h4> 🎖️ My Certification 🎖️ </h4>
 <li> 빅데이터분석기사 (2023.12.22)</li>
 <li> 리눅스마스터 2급 (2024.03.29)</li>
+<li> 네트워크관리사 2급 (2024.01.23)</li>
 
 
 <h4 align="center"> 👀 About me 👀 </h4>
