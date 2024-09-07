@@ -19,13 +19,17 @@ Techs that I've used at least once
 <h4>  Experience 💎 </h4>
 <li> 한양대학교 산학협력단 (2022.08~2022.12)</li>
  통신시스템연구실 TTA 인증심사 참여연구원 
+ 
 <li> 한국과학기술연구원(KIST) (2021.09~2022.02)</li>
 차세대반도체연구소 광전소재연구단 학생연구원
+
 <li> 신한투자증권 프로디지털아카데미 5기 (2024.09~) </li>
 
+
 </h4> 💡 Research & Publications 💡</h4>
-<li> "Optical Gas Sensors for Carbon Dioxide Detection" </li>
 <li> 한국광학회 동계학술발표회 Photonics 부문 제 1저자 우수논문상 </li>
+ Optical Gas Sensors for Carbon Dioxide Detection 
+
 
 <h4> 🎖️ My Certification 🎖️ </h4>
 <li> 빅데이터분석기사 (2023.12.22)</li>
