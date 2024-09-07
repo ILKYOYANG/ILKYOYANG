@@ -26,6 +26,7 @@ Techs that I've used at least once
 <li> 신한투자증권 프로디지털아카데미 5기 (2024.09~) </li>
 
 
+
 </h4> 💡 Research & Publications 💡</h4>
 <li> 한국광학회 동계학술발표회 Photonics 부문 제 1저자 우수논문상 </li>
  Optical Gas Sensors for Carbon Dioxide Detection 
