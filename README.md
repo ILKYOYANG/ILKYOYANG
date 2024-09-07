@@ -1,13 +1,13 @@
 <div align=center>	
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HI%20GUYS!%20I'm%20ILKYO👋&fontSize=70)
-
+<p>
 
 <li> 🇰🇷  Seoul, Korea </li>
 <li> 📚  Electrical and Information Engineering </li>
 <li> 🧘🏻‍♀️  Yogini, 🥊 Boxer ,🚘 Driver </li>
 
-
+</p>
 
 <h4 align="center"> 🛠 Tech Stack 🛠 </h4>
 
