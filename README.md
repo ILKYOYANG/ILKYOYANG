@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HI%20GUYS!%20I'm%20ILKYO👋&fontSize=70)
 <p>
 ##Final Vocabulary : " "
-<li> 🎓 SEOUL TECH Electrical and Information Engineering </li>
+<li> 🎓 서울과학기술대학교 전기정보공학과 </li>
 <li> 🧘🏻‍♀️  Yogini, 🥊 Boxer ,🚘 Driver </li>
 
 </p>
