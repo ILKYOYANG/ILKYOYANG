@@ -5,7 +5,7 @@
   <h4> Final Vocabulary : Goal-Driven </h4>
 <p>
   <h4> 🏄🏻‍♀️ Activities 🏄🏻‍♀️ </h4>
-  <li> 🧘🏻‍♀️ Yogini, 🥊 Boxer ,🚘 Driver, ☕️ Brewed Coffee Lover </li>
+  <li> 🧘🏻‍♀️ Yogini, 🥊 Boxer, ☄Traveler, 🚘 Driver, ☕️ Brewed Coffee Lover </li>
 </p> 
 
 <h4> 🛠 Tech Stack 🛠 </h4>
