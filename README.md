@@ -4,6 +4,8 @@
 <p>
 ##Final Vocabulary : ""
 <li> 🎓 서울과학기술대학교 전기정보공학과 </li>
+
+<h4> 🏄🏻‍♀️ Activities 🏄🏻‍♀️ </h4>
 <li> 🧘🏻‍♀️ Yogini, 🥊 Boxer ,🚘 Driver, ☕️ Brewed Coffee Lover </li>
 
 </p>
@@ -12,7 +14,7 @@
 
 Techs that I've used at least once
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
 
 
 <h4> 💎 Experience 💎 </h4>
@@ -36,7 +38,7 @@ Techs that I've used at least once
 <h4> 💡 Research & Publications 💡</h4>
 
 <li> 한국광학회 동계학술발표회 Photonics 부문 제 1저자 우수논문상 </li>
- 논문명: Optical Gas Sensors for Carbon Dioxide Detection 
+ 논문명: Optical Gas Sensors for Carbon Dioxide Detection
 
 
 <h4> 🎖️ Certification 🎖️ </h4>
@@ -45,9 +47,6 @@ Techs that I've used at least once
 <li> 네트워크관리사 2급 (2024.01.23)</li>
 
 
-
-<h4> 🏄🏻‍♀️ Activities 🏄🏻‍♀️ </h4>
-<li>  </li>
 
 <h4 align="center"> 👀 About me 👀 </h4>
 <a href="https://www.instagram.com/iii_gyo__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
