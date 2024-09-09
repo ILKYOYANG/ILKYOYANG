@@ -50,7 +50,7 @@ Python & ML & BigData & AI & IoT
 <li> 빅데이터분석기사 (2023.12.22)</li>
 <li> 리눅스마스터 2급 (2024.03.29)</li>
 <li> 네트워크관리사 2급 (2024.01.23)</li>
-<li style ="color: gray;"> 정보처리기사 (2024.09.10) </li>
+<li style="color: gray;"> 정보처리기사 (2024.09.10) </li>
 
 
 
