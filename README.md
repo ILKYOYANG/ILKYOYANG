@@ -4,11 +4,11 @@
 
 #Final Vocabulary : ""
 <p>
-  <br>
   <h4> 🏄🏻‍♀️ Activities 🏄🏻‍♀️ </h4>
   <li> 🧘🏻‍♀️ Yogini, 🥊 Boxer ,🚘 Driver, ☕️ Brewed Coffee Lover </li>
-</p>  
-<h4 align="center"> 🛠 Tech Stack 🛠 </h4>
+</p> 
+
+<h4> 🛠 Tech Stack 🛠 </h4>
 
 Techs that I've used at least once
 
