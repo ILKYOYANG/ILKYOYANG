@@ -2,9 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HI%20GUYS!%20I'm%20ILKYO👋&fontSize=70)
 <p>
-##Final Vocabulary : " "
+##Final Vocabulary : ""
 <li> 🎓 서울과학기술대학교 전기정보공학과 </li>
-<li> 🧘🏻‍♀️  Yogini, 🥊 Boxer ,🚘 Driver </li>
+<li> 🧘🏻‍♀️ Yogini, 🥊 Boxer ,🚘 Driver, ☕️ Brewed coffee alover </li>
 
 </p>
 
@@ -36,7 +36,7 @@ Techs that I've used at least once
 <h4> 💡 Research & Publications 💡</h4>
 
 <li> 한국광학회 동계학술발표회 Photonics 부문 제 1저자 우수논문상 </li>
- Optical Gas Sensors for Carbon Dioxide Detection 
+ 논문명: Optical Gas Sensors for Carbon Dioxide Detection 
 
 
 <h4> 🎖️ Certification 🎖️ </h4>
@@ -47,7 +47,7 @@ Techs that I've used at least once
 
 
 <h4> 🏄🏻‍♀️ Activities 🏄🏻‍♀️ </h4>
-
+<li>  </li>
 
 <h4 align="center"> 👀 About me 👀 </h4>
 <a href="https://www.instagram.com/iii_gyo__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
