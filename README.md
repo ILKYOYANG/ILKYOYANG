@@ -31,9 +31,12 @@ Techs that I've used at least once
  통신시스템연구실 TTA 인증심사 참여연구원
  
  제 4회 국제치안산업박람회 운영연구원
+ 
 <li> 한국과학기술연구원(KIST) (2021.09~2022.02)</li>
 차세대반도체연구소 광전소재연구단 학생연구원
 
+<li> 무선네트워크연구실 ST인턴 (2021.01~2021.08) </li>
+Python & ML & BigData & AI & IoT
 
 <h4> 💡 Research & Publications 💡</h4>
 
