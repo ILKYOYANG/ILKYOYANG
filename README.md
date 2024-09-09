@@ -4,8 +4,8 @@
 <p>
 ##Final Vocabulary : ""
   
-<li> 🎓 서울과학기술대학교 전기정보공학과 (졸업) </li>
-        명지대학교 디지털콘텐츠디자인학과 (중퇴)
+<li> 🎓 서울과학기술대학교 전기정보공학과 (2022.08 졸업) </li>
+        명지대학교 디지털콘텐츠디자인학과 (2019.02 중퇴)
 <h4> 🏄🏻‍♀️ Activities 🏄🏻‍♀️ </h4>
 <li> 🧘🏻‍♀️ Yogini, 🥊 Boxer ,🚘 Driver, ☕️ Brewed Coffee Lover </li>
 
