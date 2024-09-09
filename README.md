@@ -4,7 +4,7 @@
 <p>
 ##Final Vocabulary : ""
 <li> 🎓 서울과학기술대학교 전기정보공학과 </li>
-<li> 🧘🏻‍♀️ Yogini, 🥊 Boxer ,🚘 Driver, ☕️ Brewed coffee alover </li>
+<li> 🧘🏻‍♀️ Yogini, 🥊 Boxer ,🚘 Driver, ☕️ Brewed Coffee Lover </li>
 
 </p>
 
