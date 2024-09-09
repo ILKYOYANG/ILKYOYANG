@@ -1,14 +1,12 @@
 <div align=center>	
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HI%20GUYS!%20I'm%20ILKYO👋&fontSize=70)
-<p>
-##Final Vocabulary : ""
+
+#Final Vocabulary : ""
   ---
 <h4> 🏄🏻‍♀️ Activities 🏄🏻‍♀️ </h4>
 <li> 🧘🏻‍♀️ Yogini, 🥊 Boxer ,🚘 Driver, ☕️ Brewed Coffee Lover </li>
----
-</p>
-
+  ---
 <h4 align="center"> 🛠 Tech Stack 🛠 </h4>
 
 Techs that I've used at least once
