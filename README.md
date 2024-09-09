@@ -1,9 +1,8 @@
 <div align=center>	
-<!---
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HI%20GUYS!%20I'm%20ILKYO👋&fontSize=70)
   <h4> 💌 Intro 💌 </h4>
-  --->
-  Final Vocabulary : ""
+  Final Vocabulary : 
 <p>
   <h4> 🏄🏻‍♀️ Activities 🏄🏻‍♀️ </h4>
   <li> 🧘🏻‍♀️ Yogini, 🥊 Boxer ,🚘 Driver, ☕️ Brewed Coffee Lover </li>
