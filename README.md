@@ -16,8 +16,8 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
 
 <li> 🎓 서울과학기술대학교 전기정보공학과 (2022.08 졸업) </li>
-<li> 명지대학교 디지털콘텐츠디자인학과 (2019.02 중퇴)
-          GUI 디자인, 웹프로그래밍, 인터랙티브스토리텔링, 디자인워크숍2, 뉴미디어이론 </li>
+<li> 명지대학교 디지털콘텐츠디자인학과 (2019.02 중퇴) </li>
+          GUI 디자인, 웹프로그래밍, 인터랙티브스토리텔링, 디자인워크숍2, 뉴미디어이론
 <h4> 💎 Experience 💎 </h4>
 
 
