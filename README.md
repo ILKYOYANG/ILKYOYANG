@@ -49,10 +49,10 @@ Python & ML & BigData & AI & IoT
 
 <h4> 🎖️ Certification 🎖️ </h4>
 <li> AWS Certified Cloud Practitioner (2024.10.05) </li>
-<li> 빅데이터분석기사 (2023.12.22)</li>
-<li> 리눅스마스터 2급 (2024.03.29)</li>
-<li> 네트워크관리사 2급 (2024.01.23)</li>
-
+<li> 빅데이터분석기사 (2023.12.22) </li>
+<li> 리눅스마스터 2급 (2024.03.29) </li>
+<li> 네트워크관리사 2급 (2024.01.23) </li>
+<li> 펀드투자권유대행인 (2024.09.29) </li>
 
 
 <h4 align="center"> 👀 About me 👀 </h4>
